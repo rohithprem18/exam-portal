@@ -1,4 +1,3 @@
-<!-- generate a readme md -->
 # Online Examination Portal
 This is a simple online examination portal built with React. It features a timer, auto-focus on the textarea, and manual submission of the exam.
 ## Features
