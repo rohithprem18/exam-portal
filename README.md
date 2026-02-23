@@ -3,7 +3,9 @@ This is a simple online examination portal built with React. It features a timer
 ## Features
 - Auto-focus on the textarea when the component mounts.
 - A countdown timer that starts at 2 minutes (120 seconds) and updates every second.
-- Manual submission of the exam, which can be triggered by a button click.
+- Manual submission of the exam via a submit button.
+- Real-time validation of exam responses.
+- Responsive design for desktop and mobile devices.
 - When the timer runs out, the exam is automatically submitted.
 ## Usage
 1. Clone the repository:
